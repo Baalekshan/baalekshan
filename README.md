@@ -10,8 +10,8 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <span style="width: 50%; text-align: left;">![Baalekshan's Stats](https://github-readme-stats.vercel.app/api?username=Baalekshan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)</span>
-  <span style="width: 50%; text-align: right;">![Baalekshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Baalekshan&theme=tokyonight&hide_border=true)</span>
+  <span>![Baalekshan's Stats](https://github-readme-stats.vercel.app/api?username=Baalekshan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)</span>
+  <span>![Baalekshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Baalekshan&theme=tokyonight&hide_border=true)</span>
 </div>
 
 ---
