@@ -12,4 +12,3 @@
 ![Baalekshan's Stats](https://github-readme-stats.vercel.app/api?username=Baalekshan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) ![Baalekshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Baalekshan&theme=tokyonight&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Baalekshan&label=Profile%20Views&icon=3&pretty=true)](https://visitcount.itsvg.in)
