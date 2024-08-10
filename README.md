@@ -7,7 +7,9 @@
 
 # 💻 Tech Stack:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell](https://img.shields.io/badge/Shell-%234ea94b.svg?style=for-the-badge&logo=shell&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%23FFFFFF.svg?style=for-the-badge&logo=GoogleCloud&logoColor=blue) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-
+# Contributions:
+Glasskube: Building the Kubernetes Package Manager.
+Litmus: Contributing to the Open-Sourced Chaos Engineering tool.
 # 📊 GitHub Stats:
 ![Baalekshan's Stats](https://github-readme-stats.vercel.app/api?username=Baalekshan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) 
 ![Baalekshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Baalekshan&theme=tokyonight&hide_border=true)
